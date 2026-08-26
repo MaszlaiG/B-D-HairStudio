@@ -2,6 +2,8 @@
 
 **Language / Nyelv:** [English](#english) · [Magyar](#magyar)
 
+**🌐 Live / Élő oldal:** <https://maszlaig.github.io/B-D-HairStudio/>
+
 **🔗 GitHub:** <!-- Paste the project repository link here / Illeszd be ide a projekt repójának linkjét --> _(link coming soon / link hamarosan)_
 
 ---
